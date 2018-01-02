@@ -1,0 +1,27 @@
+{
+  "name": "react-native-android-back-btn",
+  "version": "0.3.0",
+  "description": "React Native Android Back Button",
+  "main": "./src/index.js",
+  "author": "Szczepan Barszczowski",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szczepanbarszczowski/react-native-android-back-btn.git"
+  },
+  "homepage": "https://github.com/szczepanbarszczowski/react-native-android-back-btn",
+  "keywords": [
+    "react-native",
+    "android",
+    "backandroid",
+    "react-side-effect"
+  ],
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react-side-effect": "^1.0.2"
+  },
+  "devDependencies": {
+    "react": "^15.3.2",
+    "react-native": ">=0.32.0"
+  }
+}
